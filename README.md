@@ -26,6 +26,7 @@ This is a pratical assignmnet for Web Data Processing Systems course.
 python -r requirements.txt
 ```
 ### How to use in terminal?
+using -v to show the running information, output is in the test/output.txt if not specified
 ```
-python starter.py -i question.txt [output.txt] [-v]
+python starter.py -i question.txt [output.txt] -v
 ```
