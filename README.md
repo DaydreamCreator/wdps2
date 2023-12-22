@@ -20,7 +20,7 @@ This is a pratical assignmnet for Web Data Processing Systems course.
 > Managua<TAB>https://en.wikipedia.org/wiki/Managua <br />
 > President's office<TAB>https://en.wikipedia.org/wiki/President_of_Nicaragua <br />
 > National Assembly<TAB>https://en.wikipedia.org/wiki/National_Assembly_(Nicaragua) <br />
-## Usage of this problem
+## Usage of this program
 ### Installation
 ```
 python -r requirements.txt
